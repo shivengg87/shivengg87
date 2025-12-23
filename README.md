@@ -5,7 +5,6 @@
 - Hands-on with **Spring Boot, Microservices, Kafka**
 - Exploring **AI + Backend fusion** (LangChain, Spring AI)
 - AI / ML (Foundational & Applied Learning)
-- Goal: **High-impact, high-paying backend/AI roles**
 ## 🛠 Tech Stack
 ### Backend
 - Java (Core + Advanced)
